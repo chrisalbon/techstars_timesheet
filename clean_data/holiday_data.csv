@@ -1,18 +1,18 @@
 Activity,Date,Duration,Holiday
+Discussion,2015-11-26,1.0,Thanksgiving
 Exercise,2015-11-26,2.0,Thanksgiving
-Meetings,2015-11-26,1.0,Thanksgiving
 Non-Technical Work,2015-11-26,9.0,Thanksgiving
 Personal,2015-11-26,3.25,Thanksgiving
 Sleep,2015-11-26,4.0,Thanksgiving
 Technical Work,2015-11-26,4.75,Thanksgiving
 Travel,2015-11-26,0,Thanksgiving
-Meetings,2015-12-25,0,Christmas
+Discussion,2015-12-25,0,Christmas
 Non-Technical Work,2015-12-25,1.5,Christmas
 Personal,2015-12-25,15.25,Christmas
 Sleep,2015-12-25,6.25,Christmas
 Technical Work,2015-12-25,1.0,Christmas
 Travel,2015-12-25,0,Christmas
-Meetings,2015-12-31,0.5,New Years Eve
+Discussion,2015-12-31,0.5,New Years Eve
 Non-Technical Work,2015-12-31,0,New Years Eve
 Personal,2015-12-31,2.75,New Years Eve
 Sleep,2015-12-31,5.5,New Years Eve
