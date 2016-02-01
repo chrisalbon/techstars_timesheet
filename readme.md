@@ -36,6 +36,7 @@ All the datasets below are available in the `clean_data` folder.
 - **End**: The end time of an activity.
 - **Duration**: The duration of an activity in factions of an hour. So 1.5 is equal to one and a half hours. The duration is broken down into quarters of an hour.
 - **Date**: The day of the activity.
+- **Free Time**: A categorical variable denoting when an activity was Personal, Exercise, or Travel.
 - **Holiday**: The holiday of an activity (when applicable).
 
 ### Description of datasets
