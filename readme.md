@@ -1,7 +1,7 @@
 # Personal Time-Activity Data From Three Months At Techstars Cloud 2016
 _(Also called: A dataset of how I spent my time at a startup incubator)_
 
-## [Read the full article here](http://chrisalbon.com/writing/what_i_learned_tracking_my_time_during_techstars.html)
+## [Read the full article here](http://chrisalbon.com/writing/what_i_learned_from_tracking_my_time_at_techstars.html)
 
 ## Repo Summary
 
